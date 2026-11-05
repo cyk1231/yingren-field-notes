@@ -4,7 +4,7 @@
 
 **下载：** [GitHub Releases](https://github.com/cyk1231/yingren-field-notes/releases/latest)
 
-> 当前版本：1.0.0 · Windows 10/11 x64 · 约 175 MB
+> 当前版本：1.1.0 · Windows 10/11 x64 · 约 175 MB
 
 ## 这是什么
 
@@ -23,7 +23,7 @@
 
 ## 安装
 
-1. 下载 `Yingren-Field-Notes-1.0.0-win-x64.zip`。
+1. 下载 `Yingren-Field-Notes-1.1.0-win-x64.zip`。
 2. 解压到任意文件夹，例如 `D:\Games\YingrenFieldNotes`。
 3. 运行 `Yingren Field Notes.exe`。
 
@@ -51,8 +51,14 @@ Windows SmartScreen 可能提示“未知发布者”，因为 EXE 未签名；�
 ## 校验
 
 ```text
-SHA256  ac4edbd69e5d750af76fcbb6859b609e0279d18fee44dd9a5fbcac1794dfe3b1
+SHA256  8ee692e9e4cf68013815da6cd8755903c81083f762f5bb700e9a1793f4ab9b09
 ```
+
+## 1.1.0 更新
+
+- 从「影刃风物志」小程序 0.3.10 重新打包，数据版本 `20261105.7`。
+- 128 片残瓣逐片攻略，64 片有完整路线。
+- 611 条收集图鉴同步审计。
 
 ## Nexus Mods
 
