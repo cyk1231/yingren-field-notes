@@ -4,7 +4,7 @@
 
 **下载：** [GitHub Releases](https://github.com/cyk1231/yingren-field-notes/releases/latest)
 
-> 当前版本：1.1.0 · Windows 10/11 x64 · 约 175 MB
+> 当前版本：1.2.0 · Windows 10/11 x64 · 约 175 MB
 
 ## 这是什么
 
@@ -18,12 +18,14 @@
 - 611 条收集图鉴，11 张地图 / 1,322 个点位
 - 22 本书 / 218 页可读正文，63 场 / 4,910 句全对话
 - 65 个任务，66 项成就
+- 首页本地存档自动导入：只读读取 Steam/WeGame `PBZSaveGame.sav`，合并已获得图鉴、成就、美术与音乐
+- 首页关注作者按钮
 - 146 幅美术原画，66 首音乐封面
 - 杀气琥珀 / 黑石、Boss / NPC / 任务点位与全屏地图
 
 ## 安装
 
-1. 下载 `Yingren-Field-Notes-1.1.0-win-x64.zip`。
+1. 下载 `Yingren-Field-Notes-1.2.0-win-x64.zip`。
 2. 解压到任意文件夹，例如 `D:\Games\YingrenFieldNotes`。
 3. 运行 `Yingren Field Notes.exe`。
 
@@ -51,8 +53,14 @@ Windows SmartScreen 可能提示“未知发布者”，因为 EXE 未签名；�
 ## 校验
 
 ```text
-SHA256  8ee692e9e4cf68013815da6cd8755903c81083f762f5bb700e9a1793f4ab9b09
+SHA256  d28541e84e305f61880b23e9e690e50ae9665f47a9e6a9ae48cc505a4c502bf6
 ```
+
+## 1.2.0 更新
+
+- 首页新增「本地存档 / 自动导入」：只读读取 Steam/WeGame `PBZSaveGame.sav`，合并已获得图鉴、成就、美术与音乐，不修改游戏存档。
+- 首页新增「关注作者」按钮。
+- 内置开源 Oodle 解码组件；地图点位、记忆之花位置等世界状态暂不合并。
 
 ## 1.1.0 更新
 
